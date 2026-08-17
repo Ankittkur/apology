@@ -182,7 +182,7 @@ export default function Home() {
           </p>
 
           <button onClick={startExperience}>
-            Open the letter <span>↗</span>
+            Open the Khat <span>↗</span>
           </button>
 
           <div className="small">
